@@ -53,5 +53,4 @@ namespace SimpleThreading.Semaphores
             }
         }
     }
-
 }
